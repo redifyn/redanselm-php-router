@@ -1,0 +1,19 @@
+{
+    "name": "redanselm/php-router",
+    "description": "simple router built by me",
+    "require": {
+        "php": "^7.3"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Redanselm\\PhpRouter\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "redAnselm"
+        }
+    ],
+    "minimum-stability": "dev"
+}
